@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Next" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"/>
 
 <br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAlmeida176)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorAlmeida176&show_icons=true&theme=radical)
 
 <br><br>
 
